@@ -1,12 +1,12 @@
-#' Get pallate from any image 
-#' @title Get Imahe Pallate
+#' Get pallete from any image 
+#' @title Get Image pallete
 #' @param image Path to the Image
 #' @param color_number number of colors to extract from the image
 #' @return array of colors
 #' @import readbitmap
 #' @export
 
-getImagePallate <- function(image, color_number) {
+getImagepallete <- function(image, color_number) {
   library(readbitmap)
   img = read.bitmap(image)
   
