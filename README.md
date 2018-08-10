@@ -32,3 +32,11 @@ present in the package
 
 `getImagePallete(image = <path to image>, color_number = <number of colors>)` -
 extractes color palletes from any given image using K-Means clustering.
+
+## Example
+
+Those are links to shinyapp example
+
+[SaryanPalleteDemo](https://grigedu.shinyapps.io/SaryanPalletesDemo/)
+
+[PalletePicker](https://grigedu.shinyapps.io/PalletePicker/)
