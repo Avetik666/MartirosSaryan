@@ -1,6 +1,6 @@
 # MartirosSaryan R color pallete
 
-This R package is can help you to distinguish your work in R with very specific and beutiful colors used by great artist Martiros Saryan
+This R package is can help you to distinguish your work in R with very specific and beautiful colors used by great artist Martiros Saryan
 
 ## Installation
 
